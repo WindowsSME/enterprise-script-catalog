@@ -1,4 +1,4 @@
-# Windows Scripting Showcase
+# Enterprise Script Catalog
 
 > This repository documents internally developed PowerShell tools for automation, cleanup, cloud operations, and system management.  
 > No source code is included — this is for visibility and reference only.
