@@ -25,14 +25,14 @@
 
 ## Application Management
 
-- **FortiClient-Uninstaller.ps1**  
-  Silently uninstalls FortiClient from a Windows machine using registry lookups or uninstall strings.
+- **VPNApplication-Uninstaller.ps1**  
+  Silently uninstalls VPN client from a Windows machine using registry lookups or uninstall strings.
 
-- **Laivly-SIDD-Installer.ps1**  
-  Installs Laivly SIDD agent with required parameters or configurations for deployment.
+- **Automation-PlatformApp-Installer.ps1**  
+  Installs the Automation Platform agent with required parameters or configurations for deployment.
 
-- **Laivly-SIDD-Uninstaller.ps1**  
-  Uninstalls the Laivly SIDD agent and removes associated configuration or leftover files.
+- **Automation-PlatformApp-Uninstaller.ps1**  
+  Uninstalls the Automation Platform app and removes associated configuration or leftover files.
 
 ---
 
@@ -55,5 +55,5 @@
 
 ## Cloud Automation
 
-- **Restart-AWSTargetWorkspaces.ps1**  
-  Securely restarts AWS WorkSpaces from a target list, with logging and simulation support.
+- **Restart-TargetMachines.ps1**  
+  Securely restarts machines from a target list, with logging and simulation support.
